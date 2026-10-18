@@ -55,7 +55,7 @@ function route() {
 }
 
 function renderBrand() {
-  document.title = `${brand.storeName} POS`;
+  document.title = `${brand.storeName} Cash Register`;
   document.querySelector('meta[name="description"]').content = brand.tagline;
   const logo = document.getElementById('logo');
   logo.textContent = brand.logoText;

@@ -1,4 +1,4 @@
-# Mirevo POS
+# Mirevo Cash Register
 
 A fictional tablet cash register for a made-up café called Mirevo. It's built as a reusable
 template in plain HTML, CSS and JavaScript, with no build step and no dependencies.
@@ -11,7 +11,7 @@ Pages: Register (product grid, cart, checkout, receipt), Inventory, Money, Stati
 ## How to run it
 
 ```sh
-cd ~/Dev/pos-template
+cd ~/Dev/cash-register-software
 python3 -m http.server 8124
 ```
 
@@ -61,7 +61,7 @@ Store name, cashier, receipt footer and the low-stock level can also be changed 
 
 ## Handoff prompt
 
-> I'm working on a fictional tablet cash register template in `~/Dev/pos-template` (plain HTML/CSS/JS,
+> I'm working on a fictional tablet cash register template in `~/Dev/cash-register-software` (plain HTML/CSS/JS,
 > ES modules, no build step, data in `localStorage`). Read `README.md` and `docs/DESIGN-SYSTEM.md`
 > first. To run it: `python3 -m http.server 8124`. Brand values live in `js/config/brand.js`; design
 > tokens are at the top of `css/styles.css`. Build new pages from the shared page components

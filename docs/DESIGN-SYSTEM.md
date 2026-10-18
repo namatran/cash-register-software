@@ -1,4 +1,4 @@
-# Mirevo POS design system
+# Mirevo Cash Register design system
 
 This file describes the system as it is in the code. The tokens live at the top of `css/styles.css`;
 everything else in that file is built from them.

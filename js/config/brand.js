@@ -5,7 +5,7 @@ export const brand = {
   tagline: 'Fresh pastries, bread and coffee',
   receiptFooter: 'Please come again',
   receiptPrefix: '#',
-  storageKey: 'mirevo-pos-v1',
+  storageKey: 'mirevo-register-v1',
   currency: {
     symbol: '$',
     locale: 'en-US',
