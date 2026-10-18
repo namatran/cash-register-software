@@ -109,6 +109,9 @@ Spacing uses a 4px rhythm: 4, 6, 8, 12, 16 and 20px. Page gutters are 20px.
   and is hidden when printing.
 
 ## Screens
+The sale flow screens are the core design: Register, Complete Sale, Sale Complete and the receipt. The
+other pages and dialogs were designed to extend it using the same components.
+
 | Route / dialog | Built from |
 | --- | --- |
 | `#/register` | Banner, top bar, tabs, product grid, cart |
