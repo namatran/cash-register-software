@@ -2,3 +2,4 @@
 AUDIT.md
 .baseline/
 .vercel
+.env*
